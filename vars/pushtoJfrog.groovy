@@ -1,3 +1,3 @@
-def call() {
-    echo 'I am pushing this to artifactory'
+def call () {
+    echo "I am pushing this to artifactory"
 }
